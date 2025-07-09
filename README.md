@@ -3,7 +3,8 @@
 A simple and responsive blog website built using **HTML**, **CSS**, and **JavaScript**.  
 It features multiple blog posts with images and a basic comment system.
 
-🌐 **Live Demo**: [Click here to view] (https://harisksh.github.io/website/)
+🌐 **Live Demo**: [Click here to view] https://harisksh.github.io/portfolio/
+
 
 
 
